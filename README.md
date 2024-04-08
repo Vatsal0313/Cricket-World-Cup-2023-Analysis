@@ -4,7 +4,7 @@ Analyzing the dataset from the Cricket World Cup 2023 (CWC23) presents a captiva
 
 # DATAET Overview
 The dataset comprises the following columns:
--team 
+- team 
 - player 
 - bat_or_bowl 
 - bb_bf (balls bowled or balls faced) 
